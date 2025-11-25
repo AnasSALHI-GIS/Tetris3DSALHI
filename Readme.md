@@ -8,7 +8,7 @@ Permettre à l'utilisateur de déplacer les pièces lorsqu'il appuie sur certain
 exemple "A" pour la gauche et "E" pour la droite).
 5- Lorsqu'une ligne est formée, la supprimer, et faire descendre les cubes qui sont au dessus
 Le jeu a été conçu suivant l'architecture suivante:
-![Diagram UML](./images/UML.png)
+![Diagram UML](https://github.com/AnasSALHI-GIS/Tetris3DSALHI/blob/main/image/UML.png)
 ## Resources
 1- Ce jeu a été basé sur le code fournit par M.Geniet: https://gitlab.com/fgeniet/opengl_tp
 2- [Learn OpenGL] https://learnopengl.com/
