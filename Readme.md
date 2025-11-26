@@ -11,8 +11,10 @@ Le jeu a été conçu suivant l'architecture suivante:
 ![Diagram UML](https://github.com/AnasSALHI-GIS/Tetris3DSALHI/blob/main/image/UML.png)
 ## Resources
 1- Ce jeu a été basé sur le code fournit par M.Geniet: https://gitlab.com/fgeniet/opengl_tp
-2- [Learn OpenGL] https://learnopengl.com/
-3- [Une playlist Youtube qui explique la documentation d'OpenGL] https://www.youtube.com/playlist?list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-
+
+2- ![Learn OpenGL] https://learnopengl.com/
+
+3- [!Une playlist Youtube qui explique la documentation d'OpenGL] https://www.youtube.com/playlist?list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-
 ## Explication du code
 ### window.h et window.cpp
 On a créé une classe window afin de pouvoir donner à l'utilisateur la possibilité de redimensioner sa fenêtre de jeu sans que le jeu disparaîsse grâce à 
@@ -179,7 +181,7 @@ Gestionnaire de toutes les pièces du jeu. Il permet l'accès à toutes les piè
 Type : `Piece*` (pointeur)
 Pointeur vers la pièce actuellement contrôlée par le joueur. Sa valeur `nullptr` si aucune pièce active
 
-ATTRIBUTS PRIVÉS
+#####ATTRIBUTS PRIVÉS
 
 `gravityTimer` : float
 Type : `float`
