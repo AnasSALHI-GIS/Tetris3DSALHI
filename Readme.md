@@ -8,13 +8,13 @@ Permettre à l'utilisateur de déplacer les pièces lorsqu'il appuie sur certain
 exemple "A" pour la gauche et "E" pour la droite).
 5- Lorsqu'une ligne est formée, la supprimer, et faire descendre les cubes qui sont au dessus
 Le jeu a été conçu suivant l'architecture suivante:
-![Diagram UML](https://github.com/AnasSALHI-GIS/Tetris3DSALHI/blob/main/image/UML.png)
+[Diagram UML](https://github.com/AnasSALHI-GIS/Tetris3DSALHI/blob/main/image/UML.png)
 ## Resources
 1- Ce jeu a été basé sur le code fournit par M.Geniet: https://gitlab.com/fgeniet/opengl_tp
 
-2- ![Learn OpenGL] (https://learnopengl.com/)
+2- [Learn OpenGL] (https://learnopengl.com/)
 
-3- [!Une playlist Youtube qui explique la documentation d'OpenGL] (https://www.youtube.com/playlist?list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-)
+3- [Une playlist Youtube qui explique la documentation d'OpenGL] (https://www.youtube.com/playlist?list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M-)
 ## Explication du code
 ### window.h et window.cpp
 On a créé une classe window afin de pouvoir donner à l'utilisateur la possibilité de redimensioner sa fenêtre de jeu sans que le jeu disparaîsse grâce à 
