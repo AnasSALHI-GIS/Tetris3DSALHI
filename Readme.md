@@ -1,9 +1,9 @@
 # Tetris 3D
 L'objectif de cet exercice est de créer un jeu Tetris en c++ et en utilisant la librairie d'OpenGL. Ce jeu devrait satisfaire les objectifs suivant:
-1.Créer Le terrain de jeu.
-2.Créer les pièces.
-3.Faire apparaître les pièces au bon moment au bon endroit.
-4.Faire tomber les pièces à intervalle régulier.
+1. Créer Le terrain de jeu.
+2. Créer les pièces.
+3. Faire apparaître les pièces au bon moment au bon endroit.
+4. Faire tomber les pièces à intervalle régulier.
 Permettre à l'utilisateur de déplacer les pièces lorsqu'il appuie sur certaines touches du clavier (par
 exemple "A" pour la gauche et "E" pour la droite).
 5- Lorsqu'une ligne est formée, la supprimer, et faire descendre les cubes qui sont au dessus
