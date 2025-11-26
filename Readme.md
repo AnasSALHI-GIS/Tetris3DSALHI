@@ -180,6 +180,7 @@ Type : `Piece*` (pointeur)
 Pointeur vers la pièce actuellement contrôlée par le joueur. Sa valeur `nullptr` si aucune pièce active
 
 ATTRIBUTS PRIVÉS
+
 `gravityTimer` : float
 Type : `float`
 Compteur de temps accumulé depuis la dernière application de gravité
