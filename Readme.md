@@ -85,7 +85,7 @@ enum PieceType {
     I                   // Pièce en ligne droite (4 cubes)
 }
 ```
-Utilisation
+####Utilisation
 
 Utilisée lors de la création d'une pièce pour définir sa forme
 Permet de générer aléatoirement différents types de pièces
